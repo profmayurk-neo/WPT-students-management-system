@@ -1,0 +1,242 @@
+[
+  {
+    "id": "S1001",
+    "fullName": "Aarav Patil",
+    "email": "aarav.updated@example.com",
+    "age": 20,
+    "department": "Computer Science",
+    "semester": 2,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 72
+      },
+      {
+        "name": "Database",
+        "marks": 67
+      },
+      {
+        "name": "Networking",
+        "marks": 76
+      }
+    ],
+    "attendance": 92,
+    "active": true
+  },
+  {
+    "id": "S1002",
+    "fullName": "Ananya Sharma",
+    "email": "student2@example.com",
+    "age": 21,
+    "department": "Computer Science",
+    "semester": 3,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 74
+      },
+      {
+        "name": "Database",
+        "marks": 69
+      },
+      {
+        "name": "Networking",
+        "marks": 77
+      }
+    ],
+    "attendance": 89,
+    "active": true
+  },
+  {
+    "id": "S1003",
+    "fullName": "Rohan Deshmukh",
+    "email": "student3@example.com",
+    "age": 22,
+    "department": "Information Technology",
+    "semester": 4,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 76
+      },
+      {
+        "name": "Database",
+        "marks": 71
+      },
+      {
+        "name": "Networking",
+        "marks": 78
+      }
+    ],
+    "attendance": 68,
+    "active": true
+  },
+  {
+    "id": "S1004",
+    "fullName": "Meera Joshi",
+    "email": "student4@example.com",
+    "age": 23,
+    "department": "Electronics",
+    "semester": 5,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 78
+      },
+      {
+        "name": "Database",
+        "marks": 73
+      },
+      {
+        "name": "Networking",
+        "marks": 79
+      }
+    ],
+    "attendance": 95,
+    "active": true
+  },
+  {
+    "id": "S1005",
+    "fullName": "Kabir Shah",
+    "email": "student5@example.com",
+    "age": 24,
+    "department": "Information Technology",
+    "semester": 6,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 80
+      },
+      {
+        "name": "Database",
+        "marks": 75
+      },
+      {
+        "name": "Networking",
+        "marks": 80
+      }
+    ],
+    "attendance": 78,
+    "active": true
+  },
+  {
+    "id": "S1006",
+    "fullName": "Isha Kulkarni",
+    "email": "student6@example.com",
+    "age": 19,
+    "department": "Computer Science",
+    "semester": 1,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 82
+      },
+      {
+        "name": "Database",
+        "marks": 77
+      },
+      {
+        "name": "Networking",
+        "marks": 81
+      }
+    ],
+    "attendance": 73,
+    "active": false
+  },
+  {
+    "id": "S1007",
+    "fullName": "Vivaan More",
+    "email": "student7@example.com",
+    "age": 20,
+    "department": "Mechanical",
+    "semester": 2,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 84
+      },
+      {
+        "name": "Database",
+        "marks": 79
+      },
+      {
+        "name": "Networking",
+        "marks": 82
+      }
+    ],
+    "attendance": 88,
+    "active": true
+  },
+  {
+    "id": "S1008",
+    "fullName": "Sara Khan",
+    "email": "student8@example.com",
+    "age": 21,
+    "department": "Electronics",
+    "semester": 3,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 86
+      },
+      {
+        "name": "Database",
+        "marks": 81
+      },
+      {
+        "name": "Networking",
+        "marks": 83
+      }
+    ],
+    "attendance": 97,
+    "active": true
+  },
+  {
+    "id": "S1009",
+    "fullName": "Aditya Pawar",
+    "email": "student9@example.com",
+    "age": 22,
+    "department": "Mechanical",
+    "semester": 4,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 88
+      },
+      {
+        "name": "Database",
+        "marks": 83
+      },
+      {
+        "name": "Networking",
+        "marks": 84
+      }
+    ],
+    "attendance": 61,
+    "active": true
+  },
+  {
+    "id": "S1010",
+    "fullName": "Nisha Rao",
+    "email": "student10@example.com",
+    "age": 23,
+    "department": "Computer Science",
+    "semester": 5,
+    "subjects": [
+      {
+        "name": "JavaScript",
+        "marks": 90
+      },
+      {
+        "name": "Database",
+        "marks": 85
+      },
+      {
+        "name": "Networking",
+        "marks": 85
+      }
+    ],
+    "attendance": 86,
+    "active": true
+  }
+]\n
